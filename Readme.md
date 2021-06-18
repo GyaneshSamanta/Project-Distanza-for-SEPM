@@ -5,7 +5,7 @@ For our 4th Semester in SRMIST University, we had to build a mini project
 1. [Website](https://www.srmist.edu.in/)
 
 
-![Image](![SRM](https://user-images.githubusercontent.com/52783096/122576405-499e7200-d06f-11eb-9504-4b372433be3c.png))  
+![SRM](https://user-images.githubusercontent.com/52783096/122576405-499e7200-d06f-11eb-9504-4b372433be3c.png)
 
 ## Problem Statement 🚧
 
@@ -20,10 +20,18 @@ Pacman, a Original available  on Nintendo and later on arcade consoles became an
 
 
 ## Screenshots 📷
-![Screenshot](assets/repository/1.png)
-![Screenshot](assets/repository/2.png)
-![Screenshot](assets/repository/3.png)
 
+### Distanza
+
+![Screenshot](https://user-images.githubusercontent.com/52783096/122576903-d34e3f80-d06f-11eb-9e88-3d86f41b92b4.png)
+
+### Pacman
+
+![Screenshot](https://user-images.githubusercontent.com/52783096/122576961-e2cd8880-d06f-11eb-9cfb-d5b0b58612f6.png)
+
+### Snake Xenia
+
+![Screenshot](https://user-images.githubusercontent.com/52783096/122577023-f24cd180-d06f-11eb-82dc-972655193933.png)
 
 ## Installation and Execution 🔧
  - To play the Pacman and Snake Xenia game follow the following steps
