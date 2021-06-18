@@ -1,7 +1,7 @@
 # Project Description
 For our 4th Semester in SRMIST University, we had to build a mini project 
 
-## Links to Surfs Up Hack ⚓
+## Links to SRM University
 1. [Website](https://www.srmist.edu.in/)
 
 
