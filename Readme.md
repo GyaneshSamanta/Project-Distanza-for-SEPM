@@ -5,7 +5,7 @@ For our 4th Semester in SRMIST University, we had to build a mini project
 1. [Website](https://www.srmist.edu.in/)
 
 
-![Image](Assets/repository/SRM.png)  
+![Image](![SRM](https://user-images.githubusercontent.com/52783096/122576405-499e7200-d06f-11eb-9504-4b372433be3c.png))  
 
 ## Problem Statement 🚧
 
